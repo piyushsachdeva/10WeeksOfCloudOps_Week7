@@ -46,9 +46,9 @@ Your organization is evolving, and your CTO wants to streamline the build and de
 
 **Deliverables:**
 *  Your solution should be well-structured, documented in a blog including the GitHub repo, and optimized for the best Kubernetes architecture, resource utilization, and security practices.
-*  Please also tag me(piyush-sachdeva) and #10weeksofcloudops in the Linkedin/Twitter post so that we can track all the submissions.
+*  Please also tag me(piyush-sachdeva) and `#10weeksofcloudops` in the Linkedin/Twitter post so that we can track all the submissions.
 
 *  Please provide a detailed YAML manifest or command set that demonstrates how you would achieve the above requirements.
-*  Additionally, include any necessary explanations or considerations related to your implementation.
+*  Also, include any necessary explanations or considerations related to your implementation.
 
 Note: Feel free to use any appropriate resources, such as Kubernetes documentation, to assist in your implementation. Good luck!
