@@ -44,6 +44,9 @@ Your organization is evolving, and your CTO wants to streamline the build and de
 *  Define a backup strategy for the data stored in the Persistent Volume.
 *  Explore options for restoring the registry in case of data loss or pod failures.
 
+**Perform cluster upgrade to 1 major version**
+*  After the upgrade, make sure that your cluster is healthy, including the workload
+
 **Deliverables:**
 *  Your solution should be well-structured, documented in a blog including the GitHub repo, and optimized for the best Kubernetes architecture, resource utilization, and security practices.
 *  Please also tag me(piyush-sachdeva) and `#10weeksofcloudops` in the Linkedin/Twitter post so that we can track all the submissions.
